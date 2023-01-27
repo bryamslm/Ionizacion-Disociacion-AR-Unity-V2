@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Azucar" size="1.000000 1.000000" />
+    <ImageTarget name="Agua" size="1.000000 1.000000" />
+    <ImageTarget name="Sal" size="1.000000 1.000000" />
+    <ImageTarget name="agua-sal" size="1.000000 0.996016" />
+    <ImageTarget name="Vinagre" size="1.000000 1.018301" />
+  </Tracking>
+</QCARConfig>
