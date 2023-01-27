@@ -1,6 +1,6 @@
 # Ionización y Disociación en Realidad Aumentada con Unity Versión 2
 
-<p>Esta App desarrolldada en Unity para AR pretende ser una herramienta de apoyo en el proceso de aprendizaje de estudiantes de química en los temas de ionización y Disociación molecular.</p>
+<p>Esta App es la segunda versión desarrolldada en Unity para AR que pretende ser una herramienta de apoyo en el proceso de aprendizaje de estudiantes de química en los temas de ionización y Disociación molecular.</p>
 
 ## Personas a cargo:
 
